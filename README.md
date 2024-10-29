@@ -1,11 +1,20 @@
+![logo](https://github.com/FERDOUS631/FERDOUS631/blob/main/Github%20Banner.png)
 <h1 align="center">Hi 👋, I'm Ferdous Reza</h1>
-<h3 align="center">I am web devloper and machine learning engineers</h3>
-
+<h3 align="center">Web app application and machine learning & ai Enthusiast  </h3>
+<img src="https://media4.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.webp?cid=790b7611v73ckpt67zr3dau2sxa62k8mhp36mfj81l2uoal7&ep=v1_gifs_search&rid=giphy.webp&ct=g"align="right"/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ferdous631&label=Profile%20views&color=0e75b6&style=flat" alt="ferdous631" /> </p>
+
+- 🌱 I’m currently learning **web devlopment with django**
 
 - 👨‍💻 All of my projects are available at [https://ferdousprotfolio.netlify.app/](https://ferdousprotfolio.netlify.app/)
 
+- 💬 Ask me about **Machine learning and web development**
+
 - 📫 How to reach me **ferdousreza631@gmailcom**
+
+- 📄 Know about my experiences [https://github.com/FERDOUS631/My-resume](https://github.com/FERDOUS631/My-resume)
+
+- ⚡ Fun fact **😊😊😊😊😊😊😊**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -20,4 +29,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ferdous631&show_icons=true&locale=en" alt="ferdous631" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=FERDOUS631&" alt="ferdous631" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ferdous631&" alt="ferdous631" /></p>
